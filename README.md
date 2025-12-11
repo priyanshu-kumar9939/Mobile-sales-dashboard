@@ -1,8 +1,5 @@
 # Mobile-sales-dashboard
 Interactive Power BI Mobile Sales Dashboard — Brand &amp; Model analysis, Monthly trends
-# Mobile Sales Dashboard
-
-Interactive Power BI dashboard to analyze mobile store sales: brand & model analysis, monthly trends, channel split, and city-wise insights. Inspired by Satish Dhawale sir's teaching style.
 
 ## Features
 - Total Sales, Total Orders, Average Selling Price (KPIs)
@@ -32,16 +29,16 @@ Total Orders = DISTINCTCOUNT(Sales[Invoice No])
 
 
 
-🛠️ Tools Used
+## Tools Used
     Power BI
     MS Excel
     DAX
     Data Modeling
 
-🚀 How to Use
+## How to Use
     Download the .pbix file
     Open it in Power BI Desktop
     Explore interactive visuals and filters
 
-🙌 Author
+## Author
     Priyanshu Kumar
